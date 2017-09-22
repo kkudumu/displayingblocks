@@ -1,0 +1,53 @@
+/*CSS reset settings here*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper {
+    background-color: #d4d1ae;
+    width: 950px;
+    height: 940px;
+    margin: 20px;
+    padding-right: 30px;
+}
+
+#header {
+    height: 100px;
+    text-align: center;
+    padding-top: 60px;
+    margin: 10px;
+}
+
+.headerimage {
+    height: 100px;
+    width: 150px;
+}
+
+#main_content {
+    width: 950px;
+    margin-left: 20px;
+}
+
+.blueborder {
+    height: 174px;
+    width: 174px;
+    border: 5px solid black;
+    background-color: #8ab4ed;
+}
+
+.redbox {
+    height: 174px;
+    width: 174px;
+    border: 5px solid black;
+    background-color: #ea6a73;
+}
+
+.image {
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    margin-left: 12px;
+    margin-top: 12px;
+}
